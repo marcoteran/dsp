@@ -11,7 +11,8 @@ Fundamentos y técnicas del procesamiento digital de señales fortaleciendo el �
 ## Contenido
 
 1. **Señales, sistemas y transformaciones**
-	* Teoría de señales y análisis de sistemas [PDF](https://github.com/marcoteran/dsp/raw/master/lectures/01_dsp_signaltheoryandsystems.pdf)
+	* Teoría de señales y análisis de sistemas [PDF](https://github.com/marcoteran/dsp/raw/master/lectures/01_dsp_signaltheory.pdf)
+	* Conversión análoga digital [PDF](https://github.com/marcoteran/dsp/raw/master/lectures/02_dsp_adconversion.pdf)
 
 ## Laboratorios
 
