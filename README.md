@@ -15,6 +15,7 @@ Fundamentos y técnicas del procesamiento digital de señales fortaleciendo el �
 	* Conversión análoga digital [PDF](https://github.com/marcoteran/dsp/raw/master/lectures/02_dsp_adconversion.pdf)
 
 ## Laboratorios
+2. **Laboratorio 01: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/dsp/raw/master/laboratory/DSP_LAB01_IntrotoMatlab.pdf) <sub>**(*deadline:* 08.03.2022)**</sub>
 
 ## Material adicional
 
