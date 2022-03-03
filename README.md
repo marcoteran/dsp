@@ -13,6 +13,8 @@ Fundamentos y técnicas del procesamiento digital de señales fortaleciendo el �
 1. **Señales, sistemas y transformaciones**
 	* Teoría de señales y análisis de sistemas [PDF](https://github.com/marcoteran/dsp/raw/master/lectures/01_dsp_signaltheory.pdf)
 	* Conversión análoga digital [PDF](https://github.com/marcoteran/dsp/raw/master/lectures/02_dsp_adconversion.pdf)
+2. **Sistemas LTI, convolución y correlación**
+	* Sistemas LTI y Convolución de señales [PDF](https://github.com/marcoteran/dsp/raw/master/lectures/03_dsp_ltisystemsandconvolution.pdf)
 
 ## Laboratorios
 2. **Laboratorio 01: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/dsp/raw/master/laboratory/DSP_LAB01_IntrotoMatlab.pdf) <sub>**(*deadline:* 08.03.2022)**</sub>
