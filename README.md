@@ -15,11 +15,16 @@ Fundamentos y técnicas del procesamiento digital de señales fortaleciendo el �
 	* Conversión análoga digital [PDF](https://github.com/marcoteran/dsp/raw/master/lectures/02_dsp_adconversion.pdf)
 2. **Sistemas LTI, convolución y correlación**
 	* Sistemas LTI y Convolución de señales [PDF](https://github.com/marcoteran/dsp/raw/master/lectures/03_dsp_ltisystemsandconvolution.pdf)
+3. **Análisis en el dominio de la frecuencia** 
+	* Series de Fourier [PDF](https://github.com/marcoteran/dsp/raw/master/lectures/04_dsp_fourierseries.pdf)
+	* Transformada de Fourier [PDF](https://github.com/marcoteran/dsp/raw/master/lectures/05_dsp_fouriertransform.pdf)
 
 - **Taller primer corte:** [Descargar](https://github.com/marcoteran/dsp/raw/master/homeworks/DSP_taller01.pdf) <sub>**(*deadline:* 10.03.2022)**</sub>
+- **Taller segundo corte:** [Descargar](https://github.com/marcoteran/dsp/raw/master/homeworks/DSP_taller02.pdf) <sub>**(*deadline:* 18.04.2022)**</sub>
 
 ## Laboratorios
-2. **Laboratorio 01: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/dsp/raw/master/laboratory/DSP_LAB01_IntrotoMatlab.pdf) <sub>**(*deadline:* 08.03.2022)**</sub>
+1. **Laboratorio 01: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/dsp/raw/master/laboratory/DSP_LAB01_IntrotoMatlab.pdf) <sub>**(*deadline:* 08.03.2022)**</sub>
+2. **Laboratorio 02: *Convolución de señales*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/DSP_LAB02_SignalConvolution.pdf) <sub>**(*deadline:* 14.04.2021)**</sub>
 
 ## Material adicional
 
