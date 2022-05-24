@@ -29,7 +29,7 @@ Fundamentos y técnicas del procesamiento digital de señales fortaleciendo el �
 ## Laboratorios
 1. **Laboratorio 01: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/dsp/raw/master/laboratory/DSP_LAB01_IntrotoMatlab.pdf) <sub>**(*deadline:* 08.03.2022)**</sub>
 2. **Laboratorio 02: *Convolución de señales*** [PDF](https://github.com/marcoteran/dsp/raw/master/laboratory/DSP_LAB02_SignalConvolution.pdf) <sub>**(*deadline:* 21.04.2021)**</sub>
-5. **Laboratorio 03: *Análisis de Fourier en MATLAB*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/DSP_LAB03_fourieranalysis.pdf) <sub>**(*deadline:* 26.05.2021)**</sub>
+5. **Laboratorio 03: *Análisis de Fourier en MATLAB*** [PDF](https://github.com/marcoteran/dsp/raw/master/laboratory/DSP_LAB03_fourieranalysis.pdf) <sub>**(*deadline:* 26.05.2021)**</sub>
 
 ## Material adicional
 
